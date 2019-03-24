@@ -1,0 +1,16 @@
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\Model.dll.config
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\Model.dll
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\Model.pdb
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\obj\Debug\Model.dll
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\obj\Debug\Model.pdb
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\PagedList.dll
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\PagedList.xml
+C:\Users\Dell\Downloads\SuperMarket\SuperMarket\Model\bin\Debug\PagedList.Mvc.xml
