@@ -501,6 +501,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Default\Index.cshtml" />
     <Content Include="Views\Default\Detail.cshtml" />
+    <Content Include="Views\Default\List.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
